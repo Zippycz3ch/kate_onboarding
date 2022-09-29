@@ -53,8 +53,8 @@ brew install maven
 # Spring Boot CLI
 brew tap spring-io/tap
 brew install spring-boot
-# IntelliJ IDEA Ultimate
-brew install --cask intellij-idea
+# IntelliJ IDEA Community Edition
+brew install --cask intellij-idea-ce
 mkdir -p ~/IdeaProjects
 # Andorid Studio
 brew install --cask android-studio
